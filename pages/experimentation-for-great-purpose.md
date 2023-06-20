@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Experimentation For Great Purpose
 permalink: /experimentation-for-great-purpose/
 ---
