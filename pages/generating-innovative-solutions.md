@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Generating Innovative Solutions
 permalink: /generating-innovative-solutions
 ---
