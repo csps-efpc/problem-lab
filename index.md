@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/little-prince.jpg
 image: assets/little-prince.jpg
 ---
-This site is an example of how GitHub Pages might be used to coordinate the work of the CSPS with the Problem Lab in writing content that creates a common framework for Innovation in the Federal Public Service.
+This site is an example of how Markdown might be used to coordinate the work of the CSPS with the Problem Lab in writing content that creates a common framework for Innovation in the Federal Public Service.
 
 Topics:
 
