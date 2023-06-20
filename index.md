@@ -3,11 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: assets/little-prince.jpg
 ---
-## Defining innovation  
-### Departure from current practice  
-## Enabling us to jump: risk enablement  
-## Experimentation for great purpose  
-## The Problem: Problem Identification and cause- an intro to the checklist 
-## Generating innovative solutions  
-## Advocating within the Organizational context for innovation  
+This site is an example of how GitHub Pages might be used to coordinate the work of the CSPS with the Problem Lab in writing content that creates a common framework for Innovation in the Federal Public Service.
