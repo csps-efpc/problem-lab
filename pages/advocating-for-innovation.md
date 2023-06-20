@@ -1,0 +1,10 @@
+---
+layout: page
+title: Advocating For Innovation
+permalink: /advocating-for-innovation
+---
+Advocating for innovation within the organizational context can be challenging but is crucial for business success and growth. It requires both understanding how the organization operates as well as communicating effectively across departments and levels. Here are some tips on how you can advocate effectively for innovation:
+
+1. Identify the decision makers: Who has influence over your department? Which executives have direct control over funding decisions that would impact your efforts? Getting clearance from these individuals before presenting ideas is important. If there are specific executives you need support from but don’t know them yet, ask around internally to find out who has relationships at those higher levels so you can leverage their social connections. Networking is powerful!
+2. Get key allies early on: Gather champions inside your company by finding like-minded people who value new approaches and creativity. These peers may not sit directly next to each other and could even work in separate locations - they might just share similar interests outside of work. Invest time building strong working relationships where trust can develop. When you come up against a challenge, this network should provide sound advice, share experiences, and maybe lend support through jointly addressing concerns if necessary. Having a small group you can rely upon makes large companies more tolerable day-to-day because we aren’t islands; our successes depend on teamwork.
+3. Practice active listening: Listening effectively takes effort and practice, since many of us tend to mentally prepare what we want to say rather than truly focus on others’ words. You already recognize the importance of connecting with colleagues through discussions, but remember opportunities to hear what matters to those around you arise frequently throughout conversations. If someone shares details or feelings around problems they face, take notes during meetings or later jot down follow ups. Even simple things such as “Susan seems passionate about her family” or “Joe worries t…
