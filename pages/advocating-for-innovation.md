@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Advocating For Innovation
 permalink: /advocating-for-innovation
 ---
