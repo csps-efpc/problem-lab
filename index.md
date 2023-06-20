@@ -9,3 +9,11 @@ header:
 image: assets/little-prince.jpg
 ---
 This site is an example of how GitHub Pages might be used to coordinate the work of the CSPS with the Problem Lab in writing content that creates a common framework for Innovation in the Federal Public Service.
+
+Topics:
+
+*  [Defining innovation](defining-innovation)
+*  [Enabling us to jump: risk enablement](risk-enablement)  
+*  [Experimentation for great purpose](experimentation-for-great-purpose)
+*  [Generating innovative solutions](generating-innovative-solutions)
+*  [Advocating within the Organizational context for innovation](advocating-for-innovation)
