@@ -4,3 +4,10 @@
 
 layout: home
 ---
+## Defining innovation  
+### Departure from current practice  
+## Enabling us to jump: risk enablement  
+## Experimentation for great purpose  
+## The Problem: Problem Identification and cause- an intro to the checklist 
+## Generating innovative solutions  
+## Advocating within the Organizational context for innovation  
