@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Enabling Us To Jump: Risk Enablement
+layout: single
+title: Enabling Us To Jump - Risk Enablement
 permalink: /risk-enablement/
 ---
 
