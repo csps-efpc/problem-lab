@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Advocating For Innovation
-permalink: /advocating-for-innovation
+permalink: /advocating-for-innovation/
 ---
 Advocating for innovation within the organizational context can be challenging but is crucial for business success and growth. It requires both understanding how the organization operates as well as communicating effectively across departments and levels. Here are some tips on how you can advocate effectively for innovation:
 
